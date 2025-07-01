@@ -42,7 +42,7 @@ var form              = "Очная";
 
 // заграник
 var zagran_number     = "GE696574"; //номер загран
-var dateGiveZ         = "21.12.2022ю"; //выдан загран
+var dateGiveZ         = "21.12.2022"; //выдан загран
 var dateOutZ          = "21.12.2032"; //коньчаеться загран
 
 var student_number    = "2022154258";
