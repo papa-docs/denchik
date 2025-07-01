@@ -51,18 +51,18 @@ var student_date_out  = "30.06.2025";
 
 // Включение/выключение документов
 var isRightsEnabled   = true;
-var isStudyEnabled    = true;
-var isZagranEnabled   = false;
+var isZagranEnabled   = true;
 var isDiplomaEnabled  = false;
+var isStudyEnabled    = false;
 // Добавь остальные переменные по аналогии
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "clients/1/owner-image.png"; //эДок, паспорт,
-var photo_rights   = "clients/1/owner-image.png"; //права
-var photo_students = "clients/1/photo_passport"; //диплом, студ
-var photo_zagran   = "clients/1/photo_zagran.jpg"; //загран
+var photo_passport = "1.png"; //эДок, паспорт,
+var photo_rights   = "zagran2.png"; //права
+var photo_students = "zagran2.png"; //диплом, студ
+var photo_zagran   = "zagran.png"; //загран
 
-var signPng           = "clients/1/sign.png"; //подпись
+var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
 
