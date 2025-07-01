@@ -41,8 +41,9 @@ var form              = "Очная";
 
 
 // заграник
-var zagran_number     = "GE696574";
-
+var zagran_number     = "GE696574"; //номер загран
+var dateGiveZ         = "21.12.2022ю"; //выдан загран
+var dateOutZ          = "21.12.2032"; //коньчаеться загран
 
 var student_number    = "2022154258";
 var student_date_give = "01.09.2021";
