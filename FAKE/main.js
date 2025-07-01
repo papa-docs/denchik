@@ -18,6 +18,9 @@ window.addEventListener('DOMContentLoaded', function() {
         '#srokPrav': prava_date_out,
         '#adress': bank_adress,
 
+        '#dateGiveZ': dateGiveZ,
+        '#dateOutZ': dateOutZ,
+
         '#sex': sex,
         '#sexEn': sex_en,
         '#textName': fio.split(' ')[1], // только имя, если надо
