@@ -1,7 +1,7 @@
 // values.js
 
 // Основные данные 
-var fio               = "Таценкр Валерiй Петров";
+var fio               = "Таценко Валерiй Петров";
 var fio_en            = "Tatsenko Valerii";
 var birth             = "08.10.1978"; //дата рождения
 var date_give         = "03.11.2022"; //Дата видачи
