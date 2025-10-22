@@ -3,7 +3,7 @@
 // Основные данные 
 var fio               = "Iванченко Роман Iванович";
 var fio_en            = "Ivanchenko Roma";
-var birth             = "20.10.1985"; //дата рождения
+var birth             = "20.10.1999"; //дата рождения
 var date_give         = "28.08.2020"; //Дата видачи
 var date_out          = "28.08.2030"; // действителен до
 var organ             = "6351"; //орган что выдал документ
@@ -60,11 +60,12 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "2.png"; //эДок, паспорт,
-var photo_rights   = "права.png"; //права
-var photo_students = "загран.png"; //диплом, студ
+var photo_passport = "image_2025-10-22_13-20-28.png"; //эДок, паспорт,
+var photo_rights   = "image_2025-10-22_13-20-28.png"; //права
+var photo_students = "image_2025-10-22_13-20-28.png"; //диплом, студ
 var photo_zagran   = "загран.png"; //загран
 
-var signPng           = "sign.png"; //подпись
+var signPng           = "image_2025-10-22_13-20-28.png"; //подпись
 // Можно добавить еще, если надо
+
 
