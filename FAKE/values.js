@@ -65,8 +65,9 @@ var photo_rights   = "image_2025-10-22_13-20-28.png"; //права
 var photo_students = "image_2025-10-22_13-20-28.png"; //диплом, студ
 var photo_zagran   = "image_2025-10-22_13-20-28.png"; //загран
 
-var signPng           = "image_2025-10-22_13-20-28.png"; //подпись
+var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
